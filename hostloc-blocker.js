@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Hostloc根据关键字和用户名屏蔽帖子
+// @name         Hostloc 帖子签名屏蔽工具
 // @namespace    https://github.com/FlyxFly
 // @version      0.3.0
 // @description  根据关键字和用户名屏蔽帖子，根据用户名屏蔽签名
@@ -10,6 +10,7 @@
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @require      https://unpkg.com/sweetalert/dist/sweetalert.min.js
 // @grant        GM_download
+// @license      Apache-2.0
 // ==/UserScript==
 
 (function() {
